@@ -25,6 +25,7 @@ A comprehensive movie recommendation system implementing multiple collaborative 
   - User behavior patterns
   - Movie popularity insights
 
+
 ## Quick Start
 
 ### Prerequisites
@@ -182,6 +183,8 @@ item_similarity = cosine_similarity(user_item_matrix.T)
 
 # Recommendation based on item similarities
 ```
+
+
 
 ### 3. Matrix Factorization (SVD)
 - **Concept**: Decompose user-item matrix into latent factors
